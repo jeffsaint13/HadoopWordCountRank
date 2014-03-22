@@ -10,6 +10,7 @@ a) How many times each of the words “education”, “politics”, “sports�
 b) Rank the top 3 states for each of these words (i.e., which state pages use each of 
 these words the most) 
 
+This program uses the WholeFileInputFormat - Ref: O'Reilly's "Hadoop: The Definitive Guide" by Tom White
 
 COMPILE AND PACK INTO JAR
 
